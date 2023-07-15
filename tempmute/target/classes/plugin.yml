@@ -1,0 +1,11 @@
+name: tempmute
+version: '1.0-SNAPSHOT'
+main: me.shadow.tempmute.Tempmute
+api-version: '1.20'
+commands:
+  tempmute:
+    description: tempmute command
+    usage: /tempmute <player> <time> <reason>
+  unmute:
+    description: use this to unmute
+    usage: /unmute <player>
